@@ -1,5 +1,4 @@
 version: '3.8'
-
 services:
   registry-ui:
     image: joxit/docker-registry-ui:main
