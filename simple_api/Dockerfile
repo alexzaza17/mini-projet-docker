@@ -4,6 +4,6 @@ RUN apt-get update -y && apt install python3-dev libsasl2-dev libldap2-dev libss
 WORKDIR /
 COPY  requirements.txt student_age.py /
 RUN pip3 install -r requirements.txt
-COPY /data
+VOLUME /data
 EXPOSE 5000
 CMD ["python", "./student_age.py"]
