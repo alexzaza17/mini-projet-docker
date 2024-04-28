@@ -4,7 +4,7 @@ services:
    image: php:apache
    container_name: website.student_list
    depends_on:
-     - api.student_list
+     - api
    ports:
      - "8000:80"
    volumes:
@@ -15,8 +15,8 @@ services:
    networks:
      - student_list.network
   api.student_list:
-   image: api.student_list.img
-   container_name: api.student_list
+   image: api:v1
+   container_name: api
    volumes:
      - ./simple_api:/data
    ports:
