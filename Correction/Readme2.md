@@ -17,7 +17,7 @@ Nous allons mettre en place les commandes des differents conteneurs
 - Nous allons mettre en place un conteneur en utilisant le docker-compose.yml pour l affiche des infos des etudiants
 - Nous allons creer le registry avec le docker-compose-registry pour pouvoir heberger notre application en local
  
-####### Elaboration du plan de travail
+#### Elaboration du plan de travail
 
 Partie 1
  
@@ -75,9 +75,11 @@ Partie 3 Docker Registry
 
 ![Tag registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/bf9b7a8c-3db9-4871-90e9-c77b6852e034)
 
+4- Une fois le tag a ete fait l image pourra etre push sur le registry en local
 
 ![Push l image du registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/03d28d68-627a-46cd-a864-84e83e5fbf26)
 
+5- Affiche de l'image sur le registry en local
 
 ![registry details](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/38ec098e-e0ca-4789-96ed-b6579ae2d932)
 
