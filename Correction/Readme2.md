@@ -31,6 +31,9 @@
 
 #########
 
+
+![Run Registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/078e1b6f-9e71-46a0-98cc-7a378c341ce9)
+
 ![Registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/6b06e2cf-c744-4ea6-b76c-a83e2f0cfc00)
 
 ![registry details](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/38ec098e-e0ca-4789-96ed-b6579ae2d932)
