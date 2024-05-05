@@ -1,9 +1,18 @@
 # Fankem 
 
-
 ## Alex
+### Eazytraining 18th DevOps Bootcamp
+#### Period: march-april-may
 
-###
+##### Application
+Il est question ici pour nous de deployer une application denomme "api", celle ci elle affiche la liste des etudiants et leurs ages.
+Notre devoir est divise en 3 parties:
+- Il s agit de mettre un conteneur en utilisant les commandes docker pour afficher la liste des etudiants
+- La deuxieme partie consiste a afficher la liste des etudiants en utilisant docker-compose
+- La troisieme partie consiste a pusher notre image cree sur le registry
+
+###### 
+
 ![Image Build](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/3f9eb99a-f167-42ce-8444-5dd886c81d22)
 
 ####
@@ -29,7 +38,6 @@
 
 ![docker stop and remove api](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/933e19fe-8c35-4b73-959b-742d1b6f42c6)
 
-#########
 
 
 ![Run Registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/078e1b6f-9e71-46a0-98cc-7a378c341ce9)
