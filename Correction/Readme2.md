@@ -73,11 +73,10 @@ Partie 3 Docker Registry
 
 3- Avant de push l image sur le registry en local il faudra d'abord la tag en utilisant la commande 
 
-![registry details](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/412a75c8-6d43-48e4-9583-85716dbec19c)
-
 ![Tag registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/bf9b7a8c-3db9-4871-90e9-c77b6852e034)
 
 
+![Push l image du registry](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/03d28d68-627a-46cd-a864-84e83e5fbf26)
 
 
 ![registry details](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/38ec098e-e0ca-4789-96ed-b6579ae2d932)
