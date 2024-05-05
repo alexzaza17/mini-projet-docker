@@ -16,9 +16,12 @@
 
 ![commande curl](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/34852167-12fa-401b-9756-59dc8e9150d7)
 
-![docker compose yml](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/148bfa84-21c2-4cc1-a78d-ee9960c5bbe4)
 
 ![docker-compose yml image+build](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/ca886206-cce3-4d8d-b87e-b8e83cde01c0)
+
+![docker compose yml](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/148bfa84-21c2-4cc1-a78d-ee9960c5bbe4)
+
+
 
 
 ########
