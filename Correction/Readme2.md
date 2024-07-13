@@ -83,3 +83,6 @@ Partie 3 Docker Registry
 
 ![registry details](https://github.com/alexzaza17/mini-projet-docker/assets/159175882/38ec098e-e0ca-4789-96ed-b6579ae2d932)
 
+
+![describe2](https://github.com/user-attachments/assets/68965496-cf47-4666-acad-1961026e20e7)
+
